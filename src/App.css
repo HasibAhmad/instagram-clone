@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+}
+
+.app {
+  background-color: #fafafa;
+}
+
+.app__header {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background-color: white;
+  padding: 20px;
+  border-bottom: 1px solid lightgray;
+  object-fit: contain;
+  display: flex;
+  justify-content: space-between;
+}
+
+.app__headerImage {
+  object-fit: contain;
+}
+
+.app__signup {
+  display: flex;
+  flex-direction: column ;
+}
+
+.app__posts {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+/* .app__fileInput {
+  display: flex;
+} */
+
+.app__fileInputButton {
+  width: 100%;
+  text-transform: capitalize !important;
+}
+
+.app__userAvatarIcons {
+  padding-right: 4px;
+  padding-bottom: 4px;
+}
+
+.app__settingsMenuItem {
+  display: flex;
+}
+
+.app__noConnection {
+  min-height: 80vmin;
+}

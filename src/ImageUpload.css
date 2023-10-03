@@ -1,0 +1,31 @@
+.imageupload {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.imageupload__progress {
+  width: 100%;
+}
+
+.imageupload__fileInput {
+  display: flex;
+}
+
+/* .imageuplpoad__fileInputButton {} */
+
+/* .imageupload__fileInputLeft{
+  flex: 1;
+} */
+
+/* .imageupload__fileInputRight{
+  flex: auto;
+} */
+
+input[type="file"] {
+  display: none;
+}

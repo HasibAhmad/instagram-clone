@@ -1,0 +1,54 @@
+ history
+    1   git config --global user.name "Hasib Ahmad Khaliqi"
+    2  git config --global user.email "hasibahmadkh@gmail.com"
+    3  git user
+    4  exit
+    5  pwd
+    6  cd
+    7  cd
+    8  cd
+    9  pwd
+   10  dir
+   11  ls
+   12  ls -l
+   13  ls -a
+   14  ls -all
+   15  exit
+   16  npm i
+   17  npm audit fix
+   18  npm audit fix
+   19  npm -v
+   20  npm audit fix
+   21  npm cache clean  --force
+   22  npm audit fix
+   23  npm run build
+   24  npm uninstall -g create-react-app
+   25  npm install -g create-react-app
+   26  npm update
+   27  npm update
+   28  npm update
+   29  npm run build
+   30  set NODE_OPTIONS=--openssl-legacy-provider~
+   31  npm run build
+   32  npm start
+   33  npm start
+   34  set NODE_OPTIONS=--openssl-legacy-provider && npm run start
+   35  set NODE_OPTIONS=--openssl-legacy-provider~
+   36  npm start
+   37  npm start
+   38  npm runbuild
+   39  npm run build
+   40  firebase deploy
+   41  npm run build
+   42  firebase deploy
+   43  firebase deploy
+   44  firebaseinit
+   45  firebase init
+   46  npm run build
+   47  firebase deploy
+   48  firebase init
+   49  npm run build
+   50  firebase deploy
+   51  npm start
+   52  histoy
+   53  history
